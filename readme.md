@@ -29,11 +29,32 @@ Kode sumber akan dipublikasikan setelah proses akademik selesai.
 ---
 
 ## 🎯 Fitur Utama
-- Deteksi marker untuk menampilkan landmark dalam bentuk 3D
-![demo metode marker](ReadmeFile/GifListmarker.gif) 
-- Integrasi informasi edukatif tiap landmark
-- Kuis interaktif berbasis landmark yang dikunjungi
-- Dukungan untuk navigasi berbasis lokasi (Geospatial API)
+### Deteksi marker untuk menampilkan landmark dalam bentuk 3D
+
+<table>
+  <tr>
+    <td><img src="ReadmeFile/MarkerBased.gif" width="300"/></td>
+    <td><img src="ReadmeFile/ListMarker.gif" width="300"/></td>
+  </tr>
+</table>
+
+### Integrasi informasi edukatif tiap landmark
+<table>
+  <tr>
+    <td><img src="ReadmeFile/Informasi.gif" width="300"/></td>
+  </tr>
+</table>
+
+### Kuis interaktif berbasis landmark yang dikunjungi
+<table>
+  <tr>
+    <td><img src="ReadmeFile/SoalKuis.jpeg" width="300"/></td>
+    <td><img src="ReadmeFile/SkorKuis.jpeg" width="300"/></td>
+  </tr>
+</table>
+
+### Dukungan untuk navigasi berbasis lokasi (Geospatial API)
+> ⚠️ Dalam proses pembuatan
 
 ---
 
@@ -52,10 +73,3 @@ Kode sumber akan dipublikasikan setelah proses akademik selesai.
 - Monumen Perjuangan 
 - Masjid Raya Kota Pekanbaru 
 ---
-
-
-## ⚠️ Catatan
-Source code belum disertakan karena aplikasi masih dalam proses akademik. Silakan unduh dan uji coba versi demo APK yang tersedia.
-
----
-
